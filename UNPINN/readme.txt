@@ -1,0 +1,7 @@
+1. Numerical Model
+Aquifer thickness: M = 10. Dimensional units: Grid length L (m), time step Δt (0.02s), q (m^3/s). Initial water head: 4m on the left boundary, 6m on the right boundary, and 7m elsewhere.
+Case Study 9: Unconfined aquifer, 51x51 grid, 50 time steps (1s). Left and right boundaries are constant head boundaries, with 4m on the left and 6m on the right. Top and bottom boundaries are no-flow boundaries.
+Case Study 10: Unconfined aquifer, 51x51 grid, 50 time steps. Left and right boundaries are flow boundaries, with the left being an inflow boundary with q = 0.035 m^3/s and the right being an outflow boundary with q = -0.03 m^3/s. Top and bottom boundaries are no-flow boundaries.
+Case Study 11: Confined aquifer, 51x51 grid, 50 time steps. Left and right boundaries are constant head boundaries, with 4m on the left and 6m on the right. Top and bottom boundaries are no-flow boundaries.
+Case Study 12: Confined aquifer, 51x51 grid, 50 time steps. Left and right boundaries are flow boundaries, with the left being an inflow boundary with q = 0.035 m^3/s and the right being an outflow boundary with q = -0.03 m^3/s. Top and bottom boundaries are no-flow boundaries.
+UA: Represents unconfined aquifer; CA represents confined aquifer; D represents Dirichlet boundary condition, which is a constant head boundary condition. N represents Neumann boundary condition, which is a flow boundary condition.
