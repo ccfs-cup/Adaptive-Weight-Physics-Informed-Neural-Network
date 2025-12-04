@@ -8,13 +8,13 @@ This study employs two distinct types of datasets for verification experiments. 
 
 ## Requirements
 
-GWPGNN works in Python3.9.13 In order to use the GWPGNN successfully, the following site-packages are required:
-tensorflow 2.10.0
-numpy 1.23.5
-pandas 1.5.3
-matplotlib 3.7.1
-pyDOE 0.3.8
-pyparsing 3.0.9
+GWPGNN works in Python3.9.13 In order to use the GWPGNN successfully, the following site-packages are required:  
+tensorflow 2.10.0  
+numpy 1.23.5  
+pandas 1.5.3  
+matplotlib 3.7.1  
+pyDOE 0.3.8  
+pyparsing 3.0.9  
 The latest GWPGNN can work in linux-Ubuntu 20.04.6
 
 ## Quick verification
@@ -28,6 +28,9 @@ The rapid test file for prediction results is used to save the prediction result
 2. UNPINN corresponds to the code for simulating two-dimensional heterogeneous unconfined aquifers. The simulated area S used in the experiment corresponds to the S1 area in the code.
 
 3. GWPINN corresponds to the training code for the middle reaches of the Heihe River Basin. You can set a certain proportion of PDE sampling points so that the memory usage is manageable for the server.
+## User Guide
+
+Open the files in Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/GWPINN/model and Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/UNPINN/model separately for training. The file configurations have already been completed in the model.
 
 
 
