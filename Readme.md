@@ -1,4 +1,4 @@
-A novel Transfer Learning-Based Adaptive Weight Physics-Informed Neural Network for Groundwater Modeling in the middle reaches of Heihe River Basin, northwestern China
+#A novel Transfer Learning-Based Adaptive Weight Physics-Informed Neural Network for Groundwater Modeling in the middle reaches of Heihe River Basin, northwestern China
 
 In this paper, we propose a novel framework, the Transfer Learning-based Adaptively Weighted Physics-Informed Neural Network (TL-AWPINN), to simulate groundwater in the middle reaches of the Heihe River Basin. The core of this model is the integration of the governing differential equation of groundwater flow as prior knowledge and the design of a physics-informed loss function with adaptive weights. This adaptive weighting mechanism dynamically balances different physical constraints, thereby enhancing the model's physical consistency and predictive accuracy. 
 
@@ -28,4 +28,5 @@ Folder Description
 2. UNPINN corresponds to the code for simulating two-dimensional heterogeneous unconfined aquifers. The simulated area S used in the experiment corresponds to the S1 area in the code.
 
 3. GWPINN corresponds to the training code for the middle reaches of the Heihe River Basin. You can set a certain proportion of PDE sampling points so that the memory usage is manageable for the server.
+
 
