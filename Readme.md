@@ -15,7 +15,6 @@ pandas 1.5.3
 matplotlib 3.7.1  
 pyDOE 0.3.8  
 pyparsing 3.0.9  
-The latest GWPGNN can work in linux-Ubuntu 20.04.6
 
 ## Quick verification
 
@@ -31,6 +30,7 @@ The quick_test.py is used to save the prediction results and fine-tuning results
 ## User Guide
 
 Open the files in Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/GWPINN/model and Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/UNPINN/model separately for training. The file configurations have already been completed in the model.
+
 
 
 
