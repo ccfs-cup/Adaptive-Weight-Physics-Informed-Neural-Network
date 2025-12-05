@@ -8,7 +8,7 @@ This study employs two distinct types of datasets for verification experiments. 
 
 ## Requirements
 
-GWPGNN works in Python3.9.13 In order to use the GWPGNN successfully, the following site-packages are required:  
+GWPINN works in Python3.9.13 In order to use the GWPINN successfully, the following site-packages are required:  
 tensorflow 2.10.0  
 numpy 1.23.5  
 pandas 1.5.3  
@@ -30,6 +30,7 @@ The quick_test.py is used to save the prediction results and fine-tuning results
 ## User Guide
 
 Open the files in Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/GWPINN/model and Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/UNPINN/model separately for training. The file configurations have already been completed in the model.
+
 
 
 
