@@ -19,7 +19,7 @@ The latest GWPGNN can work in linux-Ubuntu 20.04.6
 
 ## Quick verification
 
-The rapid test file for prediction results is used to save the prediction results and fine-tuning results of the trained model, so as to visualize the prediction curves of the Da Man, No. 13 Well and Zhangye Farm.
+The quick_test.py is used to save the prediction results and fine-tuning results of the trained model, so as to visualize the prediction curves of the Da Man, No. 13 Well and Zhangye Farm.
 
 ## Folder Description
 
@@ -31,6 +31,7 @@ The rapid test file for prediction results is used to save the prediction result
 ## User Guide
 
 Open the files in Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/GWPINN/model and Adaptive-Weight-Physics-Informed-Neural-Network/tree/master/UNPINN/model separately for training. The file configurations have already been completed in the model.
+
 
 
 
